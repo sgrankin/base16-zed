@@ -1,0 +1,1 @@
+# Base 16 themes for Zed Editor
