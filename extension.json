@@ -1,0 +1,7 @@
+{
+  "name": "Base 16",
+  "version": "0.0.1",
+  "authors": ["timcki <me@timcki.com>"],
+  "description": "Base 16 themes for Zed editor",
+  "repository": "https://github.com/timcki/base16"
+}
