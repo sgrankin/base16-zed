@@ -4,7 +4,7 @@
   "author": "George Essig (https://github.com/gessig)",
   "themes": [
     {
-      "name": "Base16 Sandcastle",
+      "name": "base16 Sandcastle",
       "appearance": "dark",
       "style": {
         "border": "#3e4451",

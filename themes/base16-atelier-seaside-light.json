@@ -4,7 +4,7 @@
   "author": "Bram de Haan (http://atelierbramdehaan.nl)",
   "themes": [
     {
-      "name": "Base16 Atelier Seaside Light",
+      "name": "base16 Atelier Seaside Light",
       "appearance": "light",
       "style": {
         "border": "#8ca68c",

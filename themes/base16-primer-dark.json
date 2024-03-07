@@ -4,7 +4,7 @@
   "author": "Jimmy Lin",
   "themes": [
     {
-      "name": "Base16 Primer Dark",
+      "name": "base16 Primer Dark",
       "appearance": "dark",
       "style": {
         "border": "#30363d",

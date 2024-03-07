@@ -4,7 +4,7 @@
   "author": "Gabriel Avanzi (https://github.com/avanzzzi)",
   "themes": [
     {
-      "name": "Base16 darkmoss",
+      "name": "base16 darkmoss",
       "appearance": "dark",
       "style": {
         "border": "#373c3d",

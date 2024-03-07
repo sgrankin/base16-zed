@@ -4,7 +4,7 @@
   "author": "Sheldon Johnson",
   "themes": [
     {
-      "name": "Base16 Mexico Light",
+      "name": "base16 Mexico Light",
       "appearance": "light",
       "style": {
         "border": "#d8d8d8",

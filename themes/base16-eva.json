@@ -4,7 +4,7 @@
   "author": "kjakapat (https://github.com/kjakapat)",
   "themes": [
     {
-      "name": "Base16 Eva",
+      "name": "base16 Eva",
       "appearance": "dark",
       "style": {
         "border": "#4b6988",

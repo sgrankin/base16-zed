@@ -4,7 +4,7 @@
   "author": "Jannik Siebert (https://github.com/janniks)",
   "themes": [
     {
-      "name": "Base16 Ashes",
+      "name": "base16 Ashes",
       "appearance": "dark",
       "style": {
         "border": "#565e65",

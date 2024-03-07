@@ -4,7 +4,7 @@
   "author": "https://github.com/catppuccin/catppuccin",
   "themes": [
     {
-      "name": "Base16 Catppuccin Macchiato",
+      "name": "base16 Catppuccin Macchiato",
       "appearance": "dark",
       "style": {
         "border": "#363a4f",

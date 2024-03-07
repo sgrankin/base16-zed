@@ -4,7 +4,7 @@
   "author": "Thomas (tasmo) Friese",
   "themes": [
     {
-      "name": "Base16 Humanoid light",
+      "name": "base16 Humanoid light",
       "appearance": "light",
       "style": {
         "border": "#deded8",

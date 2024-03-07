@@ -4,7 +4,7 @@
   "author": "Christopher Corley (http://christop.club/)",
   "themes": [
     {
-      "name": "Base16 Summerfruit Dark",
+      "name": "base16 Summerfruit Dark",
       "appearance": "dark",
       "style": {
         "border": "#303030",

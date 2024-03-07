@@ -4,7 +4,7 @@
   "author": "Mayush Kumar (https://github.com/MayushKumar), sainnhe (https://github.com/sainnhe/gruvbox-material-vscode)",
   "themes": [
     {
-      "name": "Base16 Gruvbox Material Light, Medium",
+      "name": "base16 Gruvbox Material Light, Medium",
       "appearance": "light",
       "style": {
         "border": "#d5c4a1",

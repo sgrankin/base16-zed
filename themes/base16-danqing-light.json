@@ -4,7 +4,7 @@
   "author": "Wenhan Zhu (Cosmos) (zhuwenhan950913@gmail.com)",
   "themes": [
     {
-      "name": "Base16 DanQing Light",
+      "name": "base16 DanQing Light",
       "appearance": "light",
       "style": {
         "border": "#e0f0ef",

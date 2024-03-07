@@ -4,7 +4,7 @@
   "author": "shaunsingh/IBM",
   "themes": [
     {
-      "name": "Base16 Oxocarbon Light",
+      "name": "base16 Oxocarbon Light",
       "appearance": "light",
       "style": {
         "border": "#525252",

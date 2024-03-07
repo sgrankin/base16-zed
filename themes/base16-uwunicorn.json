@@ -4,7 +4,7 @@
   "author": "Fernando Marques (https://github.com/RakkiUwU) and Gabriel Fontes (https://github.com/Misterio77)",
   "themes": [
     {
-      "name": "Base16 UwUnicorn",
+      "name": "base16 UwUnicorn",
       "appearance": "dark",
       "style": {
         "border": "#46354a",

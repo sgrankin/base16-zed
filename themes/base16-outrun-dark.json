@@ -4,7 +4,7 @@
   "author": "Hugo Delahousse (http://github.com/hugodelahousse/)",
   "themes": [
     {
-      "name": "Base16 Outrun Dark",
+      "name": "base16 Outrun Dark",
       "appearance": "dark",
       "style": {
         "border": "#30305a",

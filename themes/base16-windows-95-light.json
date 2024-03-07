@@ -4,7 +4,7 @@
   "author": "Fergus Collins (https://github.com/C-Fergus)",
   "themes": [
     {
-      "name": "Base16 Windows 95 Light",
+      "name": "base16 Windows 95 Light",
       "appearance": "light",
       "style": {
         "border": "#c4c4c4",

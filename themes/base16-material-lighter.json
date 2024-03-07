@@ -4,7 +4,7 @@
   "author": "Nate Peterson",
   "themes": [
     {
-      "name": "Base16 Material Lighter",
+      "name": "base16 Material Lighter",
       "appearance": "light",
       "style": {
         "border": "#cceae7",

@@ -4,7 +4,7 @@
   "author": "Hennig Hasemann (http://leetless.de/vim.html)",
   "themes": [
     {
-      "name": "Base16 PhD",
+      "name": "base16 PhD",
       "appearance": "dark",
       "style": {
         "border": "#4d5666",

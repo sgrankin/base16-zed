@@ -4,7 +4,7 @@
   "author": "Jannik Siebert (https://github.com/janniks)",
   "themes": [
     {
-      "name": "Base16 Embers",
+      "name": "base16 Embers",
       "appearance": "dark",
       "style": {
         "border": "#433b32",

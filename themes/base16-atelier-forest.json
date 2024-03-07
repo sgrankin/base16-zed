@@ -4,7 +4,7 @@
   "author": "Bram de Haan (http://atelierbramdehaan.nl)",
   "themes": [
     {
-      "name": "Base16 Atelier Forest",
+      "name": "base16 Atelier Forest",
       "appearance": "dark",
       "style": {
         "border": "#68615e",

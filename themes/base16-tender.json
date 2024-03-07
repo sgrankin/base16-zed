@@ -4,7 +4,7 @@
   "author": "Jacobo Tabernero (https://github/com/jacoborus/tender.vim)",
   "themes": [
     {
-      "name": "Base16 tender",
+      "name": "base16 tender",
       "appearance": "dark",
       "style": {
         "border": "#484848",

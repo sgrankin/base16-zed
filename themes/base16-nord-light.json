@@ -4,7 +4,7 @@
   "author": "threddast, based on fuxialexander&#39;s doom-nord-light-theme (Doom Emacs)",
   "themes": [
     {
-      "name": "Base16 Nord Light",
+      "name": "base16 Nord Light",
       "appearance": "light",
       "style": {
         "border": "#b8c5db",

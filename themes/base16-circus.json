@@ -4,7 +4,7 @@
   "author": "Stephan Boyer (https://github.com/stepchowfun) and Esther Wang (https://github.com/ewang12)",
   "themes": [
     {
-      "name": "Base16 Circus",
+      "name": "base16 Circus",
       "appearance": "dark",
       "style": {
         "border": "#303030",

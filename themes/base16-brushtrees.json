@@ -4,8 +4,8 @@
   "author": "Abraham White &lt;abelincoln.white@gmail.com&gt;",
   "themes": [
     {
-      "name": "Base16 Brush Trees",
-      "appearance": "dark",
+      "name": "base16 Brush Trees",
+      "appearance": "light",
       "style": {
         "border": "#b0c5c8",
         "border.variant": "#b0c5c8",

@@ -4,7 +4,7 @@
   "author": "Chris Kempson (http://chriskempson.com)",
   "themes": [
     {
-      "name": "Base16 Bright",
+      "name": "base16 Bright",
       "appearance": "dark",
       "style": {
         "border": "#505050",

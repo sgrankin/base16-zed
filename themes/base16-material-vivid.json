@@ -4,7 +4,7 @@
   "author": "joshyrobot",
   "themes": [
     {
-      "name": "Base16 Material Vivid",
+      "name": "base16 Material Vivid",
       "appearance": "dark",
       "style": {
         "border": "#323639",

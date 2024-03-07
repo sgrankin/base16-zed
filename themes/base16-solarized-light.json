@@ -4,7 +4,7 @@
   "author": "Ethan Schoonover (modified by aramisgithub)",
   "themes": [
     {
-      "name": "Base16 Solarized Light",
+      "name": "base16 Solarized Light",
       "appearance": "light",
       "style": {
         "border": "#93a1a1",

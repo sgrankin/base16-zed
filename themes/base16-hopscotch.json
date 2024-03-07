@@ -4,7 +4,7 @@
   "author": "Jan T. Sott",
   "themes": [
     {
-      "name": "Base16 Hopscotch",
+      "name": "base16 Hopscotch",
       "appearance": "dark",
       "style": {
         "border": "#5c545b",

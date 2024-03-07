@@ -4,7 +4,7 @@
   "author": "Nate Peterson",
   "themes": [
     {
-      "name": "Base16 Material Palenight",
+      "name": "base16 Material Palenight",
       "appearance": "dark",
       "style": {
         "border": "#32374d",

@@ -4,7 +4,7 @@
   "author": "Michaël Ball",
   "themes": [
     {
-      "name": "Base16 Tokyo Night Terminal Storm",
+      "name": "base16 Tokyo Night Terminal Storm",
       "appearance": "dark",
       "style": {
         "border": "#343a52",

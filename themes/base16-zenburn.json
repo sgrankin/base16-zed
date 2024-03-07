@@ -4,7 +4,7 @@
   "author": "elnawe",
   "themes": [
     {
-      "name": "Base16 Zenburn",
+      "name": "base16 Zenburn",
       "appearance": "dark",
       "style": {
         "border": "#606060",

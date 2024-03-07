@@ -4,7 +4,7 @@
   "author": "Chris Caller",
   "themes": [
     {
-      "name": "Base16 Hardcore",
+      "name": "base16 Hardcore",
       "appearance": "dark",
       "style": {
         "border": "#353535",

@@ -4,7 +4,7 @@
   "author": "Vik Ramanujam (http://github.com/piggyslasher)",
   "themes": [
     {
-      "name": "Base16 Brogrammer",
+      "name": "base16 Brogrammer",
       "appearance": "dark",
       "style": {
         "border": "#2dc55e",

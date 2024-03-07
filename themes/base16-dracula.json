@@ -4,7 +4,7 @@
   "author": "Mike Barkmin (http://github.com/mikebarkmin) based on Dracula Theme (http://github.com/dracula)",
   "themes": [
     {
-      "name": "Base16 Dracula",
+      "name": "base16 Dracula",
       "appearance": "dark",
       "style": {
         "border": "#4d4f68",

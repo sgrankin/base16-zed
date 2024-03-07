@@ -4,7 +4,7 @@
   "author": "Kyle Giammarco (http://kyle.giammar.co)",
   "themes": [
     {
-      "name": "Base16 ShadeSmear Light",
+      "name": "base16 ShadeSmear Light",
       "appearance": "light",
       "style": {
         "border": "#c0c0c0",

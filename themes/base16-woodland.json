@@ -4,7 +4,7 @@
   "author": "Jay Cornwall (https://jcornwall.com)",
   "themes": [
     {
-      "name": "Base16 Woodland",
+      "name": "base16 Woodland",
       "appearance": "dark",
       "style": {
         "border": "#48413a",

@@ -4,7 +4,7 @@
   "author": "NNB (https://github.com/NNBnh)",
   "themes": [
     {
-      "name": "Base16 Da One Gray",
+      "name": "base16 Da One Gray",
       "appearance": "dark",
       "style": {
         "border": "#585858",

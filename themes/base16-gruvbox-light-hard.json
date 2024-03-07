@@ -4,7 +4,7 @@
   "author": "Dawid Kurek (dawikur@gmail.com), morhetz (https://github.com/morhetz/gruvbox)",
   "themes": [
     {
-      "name": "Base16 Gruvbox light, hard",
+      "name": "base16 Gruvbox light, hard",
       "appearance": "light",
       "style": {
         "border": "#d5c4a1",

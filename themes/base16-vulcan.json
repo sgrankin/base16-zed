@@ -4,7 +4,7 @@
   "author": "Andrey Varfolomeev",
   "themes": [
     {
-      "name": "Base16 vulcan",
+      "name": "base16 vulcan",
       "appearance": "dark",
       "style": {
         "border": "#003552",

@@ -4,7 +4,7 @@
   "author": "Mishka Nguyen (https://github.com/akhsiM)",
   "themes": [
     {
-      "name": "Base16 Kimber",
+      "name": "base16 Kimber",
       "appearance": "dark",
       "style": {
         "border": "#555d55",

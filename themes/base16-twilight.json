@@ -4,7 +4,7 @@
   "author": "David Hart (https://github.com/hartbit)",
   "themes": [
     {
-      "name": "Base16 Twilight",
+      "name": "base16 Twilight",
       "appearance": "dark",
       "style": {
         "border": "#464b50",

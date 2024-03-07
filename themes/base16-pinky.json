@@ -4,7 +4,7 @@
   "author": "Benjamin (https://github.com/b3nj5m1n)",
   "themes": [
     {
-      "name": "Base16 pinky",
+      "name": "base16 pinky",
       "appearance": "dark",
       "style": {
         "border": "#1d1b1d",

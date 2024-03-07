@@ -4,7 +4,7 @@
   "author": "cjayross (https://github.com/cjayross)",
   "themes": [
     {
-      "name": "Base16 Edge Light",
+      "name": "base16 Edge Light",
       "appearance": "light",
       "style": {
         "border": "#d69822",

@@ -4,7 +4,7 @@
   "author": "arcticicestudio",
   "themes": [
     {
-      "name": "Base16 Nord",
+      "name": "base16 Nord",
       "appearance": "dark",
       "style": {
         "border": "#434c5e",

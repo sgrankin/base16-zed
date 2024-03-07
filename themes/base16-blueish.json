@@ -4,7 +4,7 @@
   "author": "Ben Mayoras",
   "themes": [
     {
-      "name": "Base16 Blueish",
+      "name": "base16 Blueish",
       "appearance": "dark",
       "style": {
         "border": "#46290a",

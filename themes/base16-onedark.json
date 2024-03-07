@@ -4,7 +4,7 @@
   "author": "Lalit Magant (http://github.com/tilal6991)",
   "themes": [
     {
-      "name": "Base16 OneDark",
+      "name": "base16 OneDark",
       "appearance": "dark",
       "style": {
         "border": "#3e4451",

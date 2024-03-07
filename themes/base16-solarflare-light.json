@@ -4,7 +4,7 @@
   "author": "Chuck Harmston (https://chuck.harmston.ch)",
   "themes": [
     {
-      "name": "Base16 Solar Flare Light",
+      "name": "base16 Solar Flare Light",
       "appearance": "light",
       "style": {
         "border": "#a6afb8",

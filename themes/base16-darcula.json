@@ -4,7 +4,7 @@
   "author": "jetbrains",
   "themes": [
     {
-      "name": "Base16 Darcula",
+      "name": "base16 Darcula",
       "appearance": "dark",
       "style": {
         "border": "#323232",

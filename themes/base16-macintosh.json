@@ -4,7 +4,7 @@
   "author": "Rebecca Bettencourt (http://www.kreativekorp.com)",
   "themes": [
     {
-      "name": "Base16 Macintosh",
+      "name": "base16 Macintosh",
       "appearance": "dark",
       "style": {
         "border": "#404040",

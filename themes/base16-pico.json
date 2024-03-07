@@ -4,7 +4,7 @@
   "author": "PICO-8 (http://www.lexaloffle.com/pico-8.php)",
   "themes": [
     {
-      "name": "Base16 Pico",
+      "name": "base16 Pico",
       "appearance": "dark",
       "style": {
         "border": "#7e2553",

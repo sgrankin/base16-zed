@@ -4,7 +4,7 @@
   "author": "Tyler Benziger (http://tybenz.com)",
   "themes": [
     {
-      "name": "Base16 Shapeshifter",
+      "name": "base16 Shapeshifter",
       "appearance": "light",
       "style": {
         "border": "#ababab",

@@ -4,7 +4,7 @@
   "author": "Tommaso Laurenzi (https://github.com/rebelot)",
   "themes": [
     {
-      "name": "Base16 Kanagawa",
+      "name": "base16 Kanagawa",
       "appearance": "dark",
       "style": {
         "border": "#223249",

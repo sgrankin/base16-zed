@@ -4,7 +4,7 @@
   "author": "https://github.com/catppuccin/catppuccin",
   "themes": [
     {
-      "name": "Base16 Catppuccin Latte",
+      "name": "base16 Catppuccin Latte",
       "appearance": "light",
       "style": {
         "border": "#ccd0da",

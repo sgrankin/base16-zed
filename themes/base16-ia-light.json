@@ -4,7 +4,7 @@
   "author": "iA Inc. (modified by aramisgithub)",
   "themes": [
     {
-      "name": "Base16 iA Light",
+      "name": "base16 iA Light",
       "appearance": "light",
       "style": {
         "border": "#bde5f2",

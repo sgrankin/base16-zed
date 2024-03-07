@@ -4,7 +4,7 @@
   "author": "Carlo Abelli",
   "themes": [
     {
-      "name": "Base16 Equilibrium Gray Dark",
+      "name": "base16 Equilibrium Gray Dark",
       "appearance": "dark",
       "style": {
         "border": "#262626",

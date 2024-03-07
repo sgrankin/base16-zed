@@ -4,7 +4,7 @@
   "author": "Chris Kempson (http://chriskempson.com)",
   "themes": [
     {
-      "name": "Base16 Tomorrow",
+      "name": "base16 Tomorrow",
       "appearance": "light",
       "style": {
         "border": "#d6d6d6",

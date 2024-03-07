@@ -4,7 +4,7 @@
   "author": "Geoffrey Teale (tealeg@gmail.com)",
   "themes": [
     {
-      "name": "Base16 Heetch Light",
+      "name": "base16 Heetch Light",
       "appearance": "light",
       "style": {
         "border": "#7b6d8b",

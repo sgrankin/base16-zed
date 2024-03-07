@@ -4,7 +4,7 @@
   "author": "Chawye Hsu (https://github.com/chawyehsu) based on Hyper Snazzy Theme (https://github.com/sindresorhus/hyper-snazzy)",
   "themes": [
     {
-      "name": "Base16 Snazzy",
+      "name": "base16 Snazzy",
       "appearance": "dark",
       "style": {
         "border": "#43454f",

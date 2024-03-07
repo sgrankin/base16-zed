@@ -4,7 +4,7 @@
   "author": "Alexandre Gavioli (https://github.com/Alexx2/)",
   "themes": [
     {
-      "name": "Base16 Grayscale Dark",
+      "name": "base16 Grayscale Dark",
       "appearance": "dark",
       "style": {
         "border": "#464646",

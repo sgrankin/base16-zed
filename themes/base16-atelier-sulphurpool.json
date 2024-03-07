@@ -4,7 +4,7 @@
   "author": "Bram de Haan (http://atelierbramdehaan.nl)",
   "themes": [
     {
-      "name": "Base16 Atelier Sulphurpool",
+      "name": "base16 Atelier Sulphurpool",
       "appearance": "dark",
       "style": {
         "border": "#5e6687",

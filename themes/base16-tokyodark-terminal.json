@@ -4,7 +4,7 @@
   "author": "Tiagovla (https://github.com/tiagovla/)",
   "themes": [
     {
-      "name": "Base16 Tokyodark Terminal",
+      "name": "base16 Tokyodark Terminal",
       "appearance": "dark",
       "style": {
         "border": "#212234",

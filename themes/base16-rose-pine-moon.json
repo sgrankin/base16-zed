@@ -4,7 +4,7 @@
   "author": "Emilia Dunfelt &lt;edun@dunfelt.se&gt;",
   "themes": [
     {
-      "name": "Base16 Rosé Pine Moon",
+      "name": "base16 Rosé Pine Moon",
       "appearance": "dark",
       "style": {
         "border": "#393552",

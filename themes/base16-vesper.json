@@ -4,7 +4,7 @@
   "author": "FormalSnake (https://github.com/formalsnake)",
   "themes": [
     {
-      "name": "Base16 Vesper",
+      "name": "base16 Vesper",
       "appearance": "dark",
       "style": {
         "border": "#222222",

@@ -4,7 +4,7 @@
   "author": "Mekeor Melire",
   "themes": [
     {
-      "name": "Base16 Evenok Dark",
+      "name": "base16 Evenok Dark",
       "appearance": "dark",
       "style": {
         "border": "#303030",

@@ -4,7 +4,7 @@
   "author": "Khue Nguyen &lt;Z5483Y@gmail.com&gt;",
   "themes": [
     {
-      "name": "Base16 Ayu Dark",
+      "name": "base16 Ayu Dark",
       "appearance": "dark",
       "style": {
         "border": "#272d38",

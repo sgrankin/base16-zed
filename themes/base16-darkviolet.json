@@ -4,7 +4,7 @@
   "author": "ruler501 (https://github.com/ruler501/base16-darkviolet)",
   "themes": [
     {
-      "name": "Base16 Dark Violet",
+      "name": "base16 Dark Violet",
       "appearance": "dark",
       "style": {
         "border": "#432d59",

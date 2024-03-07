@@ -4,7 +4,7 @@
   "author": "metalelf0 (https://github.com/metalelf0)",
   "themes": [
     {
-      "name": "Base16 Black Metal (Gorgoroth)",
+      "name": "base16 Black Metal (Gorgoroth)",
       "appearance": "dark",
       "style": {
         "border": "#222222",

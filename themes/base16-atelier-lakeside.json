@@ -4,7 +4,7 @@
   "author": "Bram de Haan (http://atelierbramdehaan.nl)",
   "themes": [
     {
-      "name": "Base16 Atelier Lakeside",
+      "name": "base16 Atelier Lakeside",
       "appearance": "dark",
       "style": {
         "border": "#516d7b",

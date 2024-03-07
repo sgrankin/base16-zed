@@ -4,7 +4,7 @@
   "author": "Daniel Pfeifer (http://github.com/purpleKarrot)",
   "themes": [
     {
-      "name": "Base16 One Light",
+      "name": "base16 One Light",
       "appearance": "light",
       "style": {
         "border": "#e5e5e6",

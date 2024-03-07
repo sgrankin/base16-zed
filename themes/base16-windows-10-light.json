@@ -4,7 +4,7 @@
   "author": "Fergus Collins (https://github.com/C-Fergus)",
   "themes": [
     {
-      "name": "Base16 Windows 10 Light",
+      "name": "base16 Windows 10 Light",
       "appearance": "light",
       "style": {
         "border": "#d9d9d9",

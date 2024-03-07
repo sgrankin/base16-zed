@@ -4,7 +4,7 @@
   "author": "Jon Leopard (http://github.com/jonleopard) based on PaperColor Theme (https://github.com/NLKNguyen/papercolor-theme)",
   "themes": [
     {
-      "name": "Base16 PaperColor Light",
+      "name": "base16 PaperColor Light",
       "appearance": "light",
       "style": {
         "border": "#008700",

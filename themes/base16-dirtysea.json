@@ -4,7 +4,7 @@
   "author": "Kahlil (Kal) Hodgson",
   "themes": [
     {
-      "name": "Base16 dirtysea",
+      "name": "base16 dirtysea",
       "appearance": "light",
       "style": {
         "border": "#d0d0d0",

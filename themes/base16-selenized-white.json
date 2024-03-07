@@ -4,7 +4,7 @@
   "author": "Jan Warchol (https://github.com/jan-warchol/selenized) / adapted to base16 by ali",
   "themes": [
     {
-      "name": "Base16 selenized-white",
+      "name": "base16 selenized-white",
       "appearance": "light",
       "style": {
         "border": "#cdcdcd",

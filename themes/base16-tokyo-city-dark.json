@@ -4,7 +4,7 @@
   "author": "Michaël Ball",
   "themes": [
     {
-      "name": "Base16 Tokyo City Dark",
+      "name": "base16 Tokyo City Dark",
       "appearance": "dark",
       "style": {
         "border": "#28323a",

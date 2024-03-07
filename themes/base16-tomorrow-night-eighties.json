@@ -4,7 +4,7 @@
   "author": "Chris Kempson (http://chriskempson.com)",
   "themes": [
     {
-      "name": "Base16 Tomorrow Night Eighties",
+      "name": "base16 Tomorrow Night Eighties",
       "appearance": "dark",
       "style": {
         "border": "#515151",

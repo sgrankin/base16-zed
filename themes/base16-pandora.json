@@ -4,7 +4,7 @@
   "author": "Cassandra Fox",
   "themes": [
     {
-      "name": "Base16 pandora",
+      "name": "base16 pandora",
       "appearance": "dark",
       "style": {
         "border": "#472234",

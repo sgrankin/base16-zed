@@ -4,7 +4,7 @@
   "author": "Wenhan Zhu (Cosmos) (zhuwenhan950913@gmail.com)",
   "themes": [
     {
-      "name": "Base16 DanQing",
+      "name": "base16 DanQing",
       "appearance": "dark",
       "style": {
         "border": "#5a605d",

@@ -4,7 +4,7 @@
   "author": "Fergus Collins (https://github.com/C-Fergus)",
   "themes": [
     {
-      "name": "Base16 Windows High Contrast",
+      "name": "base16 Windows High Contrast",
       "appearance": "dark",
       "style": {
         "border": "#383838",

@@ -4,7 +4,7 @@
   "author": "Emilia Dunfelt &lt;edun@dunfelt.se&gt;",
   "themes": [
     {
-      "name": "Base16 Rosé Pine",
+      "name": "base16 Rosé Pine",
       "appearance": "dark",
       "style": {
         "border": "#26233a",

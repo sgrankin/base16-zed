@@ -4,7 +4,7 @@
   "author": "Alex Mirrington (https://github.com/alexmirrington)",
   "themes": [
     {
-      "name": "Base16 Decaf",
+      "name": "base16 Decaf",
       "appearance": "dark",
       "style": {
         "border": "#515151",

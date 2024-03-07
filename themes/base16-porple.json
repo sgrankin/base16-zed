@@ -4,7 +4,7 @@
   "author": "Niek den Breeje (https://github.com/AuditeMarlow)",
   "themes": [
     {
-      "name": "Base16 Porple",
+      "name": "base16 Porple",
       "appearance": "dark",
       "style": {
         "border": "#474160",

@@ -4,7 +4,7 @@
   "author": "Timothée Poisot (http://github.com/tpoisot)",
   "themes": [
     {
-      "name": "Base16 Brewer",
+      "name": "base16 Brewer",
       "appearance": "dark",
       "style": {
         "border": "#515253",

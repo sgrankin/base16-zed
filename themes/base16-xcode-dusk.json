@@ -4,7 +4,7 @@
   "author": "Elsa Gonsiorowski (https://github.com/gonsie)",
   "themes": [
     {
-      "name": "Base16 XCode Dusk",
+      "name": "base16 XCode Dusk",
       "appearance": "dark",
       "style": {
         "border": "#53555d",

@@ -4,7 +4,7 @@
   "author": "Chris Kempson (http://chriskempson.com)",
   "themes": [
     {
-      "name": "Base16 Green Screen",
+      "name": "base16 Green Screen",
       "appearance": "dark",
       "style": {
         "border": "#005500",

@@ -4,7 +4,7 @@
   "author": "Josh W Lewis (@joshwlewis)",
   "themes": [
     {
-      "name": "Base16 Unikitty Light",
+      "name": "base16 Unikitty Light",
       "appearance": "light",
       "style": {
         "border": "#c4c3c5",

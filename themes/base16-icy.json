@@ -4,7 +4,7 @@
   "author": "icyphox (https://icyphox.ga)",
   "themes": [
     {
-      "name": "Base16 Icy Dark",
+      "name": "base16 Icy Dark",
       "appearance": "dark",
       "style": {
         "border": "#041f23",

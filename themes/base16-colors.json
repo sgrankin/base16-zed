@@ -4,7 +4,7 @@
   "author": "mrmrs (http://clrs.cc)",
   "themes": [
     {
-      "name": "Base16 Colors",
+      "name": "base16 Colors",
       "appearance": "dark",
       "style": {
         "border": "#555555",

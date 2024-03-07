@@ -4,7 +4,7 @@
   "author": "Unknown. Maintained by Alex Mirrington (https://github.com/alexmirrington)",
   "themes": [
     {
-      "name": "Base16 Espresso",
+      "name": "base16 Espresso",
       "appearance": "dark",
       "style": {
         "border": "#515151",

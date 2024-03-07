@@ -4,7 +4,7 @@
   "author": "Alexandre Gavioli (http://github.com/Alexx2/)",
   "themes": [
     {
-      "name": "Base16 Marrakesh",
+      "name": "base16 Marrakesh",
       "appearance": "dark",
       "style": {
         "border": "#5f5b17",

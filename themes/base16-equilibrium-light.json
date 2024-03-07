@@ -4,7 +4,7 @@
   "author": "Carlo Abelli",
   "themes": [
     {
-      "name": "Base16 Equilibrium Light",
+      "name": "base16 Equilibrium Light",
       "appearance": "light",
       "style": {
         "border": "#d8d4cb",

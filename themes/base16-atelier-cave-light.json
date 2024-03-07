@@ -4,7 +4,7 @@
   "author": "Bram de Haan (http://atelierbramdehaan.nl)",
   "themes": [
     {
-      "name": "Base16 Atelier Cave Light",
+      "name": "base16 Atelier Cave Light",
       "appearance": "light",
       "style": {
         "border": "#8b8792",

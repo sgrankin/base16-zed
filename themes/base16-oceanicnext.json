@@ -4,7 +4,7 @@
   "author": "https://github.com/voronianski/oceanic-next-color-scheme",
   "themes": [
     {
-      "name": "Base16 OceanicNext",
+      "name": "base16 OceanicNext",
       "appearance": "dark",
       "style": {
         "border": "#4f5b66",

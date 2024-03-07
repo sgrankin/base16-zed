@@ -4,7 +4,7 @@
   "author": "Thomas (tasmo) Friese",
   "themes": [
     {
-      "name": "Base16 Humanoid dark",
+      "name": "base16 Humanoid dark",
       "appearance": "dark",
       "style": {
         "border": "#484e54",

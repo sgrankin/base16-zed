@@ -4,7 +4,7 @@
   "author": "cjayross (https://github.com/cjayross)",
   "themes": [
     {
-      "name": "Base16 Edge Dark",
+      "name": "base16 Edge Dark",
       "appearance": "dark",
       "style": {
         "border": "#b7bec9",

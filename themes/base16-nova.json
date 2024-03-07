@@ -4,7 +4,7 @@
   "author": "George Essig (https://github.com/gessig), Trevor D. Miller (https://trevordmiller.com)",
   "themes": [
     {
-      "name": "Base16 Nova",
+      "name": "base16 Nova",
       "appearance": "dark",
       "style": {
         "border": "#6a7d89",

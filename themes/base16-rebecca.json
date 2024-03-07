@@ -4,7 +4,7 @@
   "author": "Victor Borja (http://github.com/vic) based on Rebecca Theme (http://github.com/vic/rebecca-theme)",
   "themes": [
     {
-      "name": "Base16 Rebecca",
+      "name": "base16 Rebecca",
       "appearance": "dark",
       "style": {
         "border": "#383a62",

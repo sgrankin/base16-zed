@@ -4,7 +4,7 @@
   "author": "gnsfujiwara (https://github.com/gnsfujiwara)",
   "themes": [
     {
-      "name": "Base16 Mountain",
+      "name": "base16 Mountain",
       "appearance": "dark",
       "style": {
         "border": "#262626",

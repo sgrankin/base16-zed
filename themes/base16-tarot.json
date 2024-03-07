@@ -4,7 +4,7 @@
   "author": "ed (https://codeberg.org/ed)",
   "themes": [
     {
-      "name": "Base16 tarot",
+      "name": "base16 tarot",
       "appearance": "dark",
       "style": {
         "border": "#4b2054",

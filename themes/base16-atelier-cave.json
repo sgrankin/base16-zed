@@ -4,7 +4,7 @@
   "author": "Bram de Haan (http://atelierbramdehaan.nl)",
   "themes": [
     {
-      "name": "Base16 Atelier Cave",
+      "name": "base16 Atelier Cave",
       "appearance": "dark",
       "style": {
         "border": "#585260",

@@ -4,7 +4,7 @@
   "author": "Jan T. Sott",
   "themes": [
     {
-      "name": "Base16 London Tube",
+      "name": "base16 London Tube",
       "appearance": "dark",
       "style": {
         "border": "#5a5758",

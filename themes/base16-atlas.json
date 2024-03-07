@@ -4,7 +4,7 @@
   "author": "Alex Lende (https://ajlende.com)",
   "themes": [
     {
-      "name": "Base16 Atlas",
+      "name": "base16 Atlas",
       "appearance": "dark",
       "style": {
         "border": "#517f8d",

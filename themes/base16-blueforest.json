@@ -4,7 +4,7 @@
   "author": "alonsodomin (https://github.com/alonsodomin)",
   "themes": [
     {
-      "name": "Base16 Blue Forest",
+      "name": "base16 Blue Forest",
       "appearance": "dark",
       "style": {
         "border": "#273e5c",

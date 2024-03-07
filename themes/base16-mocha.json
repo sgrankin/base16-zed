@@ -4,7 +4,7 @@
   "author": "Chris Kempson (http://chriskempson.com)",
   "themes": [
     {
-      "name": "Base16 Mocha",
+      "name": "base16 Mocha",
       "appearance": "dark",
       "style": {
         "border": "#645240",

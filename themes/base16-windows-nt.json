@@ -4,7 +4,7 @@
   "author": "Fergus Collins (https://github.com/C-Fergus)",
   "themes": [
     {
-      "name": "Base16 Windows NT",
+      "name": "base16 Windows NT",
       "appearance": "dark",
       "style": {
         "border": "#555555",

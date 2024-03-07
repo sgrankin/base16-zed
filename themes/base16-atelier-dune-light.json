@@ -4,7 +4,7 @@
   "author": "Bram de Haan (http://atelierbramdehaan.nl)",
   "themes": [
     {
-      "name": "Base16 Atelier Dune Light",
+      "name": "base16 Atelier Dune Light",
       "appearance": "light",
       "style": {
         "border": "#a6a28c",

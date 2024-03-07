@@ -4,7 +4,7 @@
   "author": "Michaël Ball",
   "themes": [
     {
-      "name": "Base16 Tokyo Night Light",
+      "name": "base16 Tokyo Night Light",
       "appearance": "light",
       "style": {
         "border": "#dfe0e5",

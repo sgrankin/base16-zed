@@ -4,7 +4,7 @@
   "author": "Jason Heeris (http://heeris.id.au)",
   "themes": [
     {
-      "name": "Base16 Classic Dark",
+      "name": "base16 Classic Dark",
       "appearance": "dark",
       "style": {
         "border": "#303030",

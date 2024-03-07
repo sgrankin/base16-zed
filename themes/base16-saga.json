@@ -4,7 +4,7 @@
   "author": "https://github.com/SAGAtheme/SAGA",
   "themes": [
     {
-      "name": "Base16 SAGA",
+      "name": "base16 SAGA",
       "appearance": "dark",
       "style": {
         "border": "#0f181e",

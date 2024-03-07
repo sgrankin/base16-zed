@@ -4,7 +4,7 @@
   "author": "Oskar Liew (https://github.com/OskarLiew)",
   "themes": [
     {
-      "name": "Base16 Everforest Dark Hard",
+      "name": "base16 Everforest Dark Hard",
       "appearance": "dark",
       "style": {
         "border": "#414b50",

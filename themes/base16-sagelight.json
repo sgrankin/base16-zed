@@ -4,7 +4,7 @@
   "author": "Carter Veldhuizen",
   "themes": [
     {
-      "name": "Base16 Sagelight",
+      "name": "base16 Sagelight",
       "appearance": "light",
       "style": {
         "border": "#d8d8d8",

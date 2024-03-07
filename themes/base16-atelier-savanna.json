@@ -4,7 +4,7 @@
   "author": "Bram de Haan (http://atelierbramdehaan.nl)",
   "themes": [
     {
-      "name": "Base16 Atelier Savanna",
+      "name": "base16 Atelier Savanna",
       "appearance": "dark",
       "style": {
         "border": "#526057",

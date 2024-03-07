@@ -4,7 +4,7 @@
   "author": "Measured (https://measured.co)",
   "themes": [
     {
-      "name": "Base16 Measured Light",
+      "name": "base16 Measured Light",
       "appearance": "light",
       "style": {
         "border": "#ffeada",

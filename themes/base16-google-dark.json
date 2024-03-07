@@ -4,7 +4,7 @@
   "author": "Seth Wright (http://sethawright.com)",
   "themes": [
     {
-      "name": "Base16 Google Dark",
+      "name": "base16 Google Dark",
       "appearance": "dark",
       "style": {
         "border": "#373b41",

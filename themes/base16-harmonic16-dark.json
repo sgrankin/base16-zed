@@ -4,7 +4,7 @@
   "author": "Jannik Siebert (https://github.com/janniks)",
   "themes": [
     {
-      "name": "Base16 Harmonic16 Dark",
+      "name": "base16 Harmonic16 Dark",
       "appearance": "dark",
       "style": {
         "border": "#405c79",

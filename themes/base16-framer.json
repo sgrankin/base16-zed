@@ -4,7 +4,7 @@
   "author": "Framer (Maintained by Jesse Hoyos)",
   "themes": [
     {
-      "name": "Base16 Framer",
+      "name": "base16 Framer",
       "appearance": "dark",
       "style": {
         "border": "#464646",

@@ -4,7 +4,7 @@
   "author": "Alex Meyer (https://github.com/reyemxela)",
   "themes": [
     {
-      "name": "Base16 Helios",
+      "name": "base16 Helios",
       "appearance": "dark",
       "style": {
         "border": "#53585b",

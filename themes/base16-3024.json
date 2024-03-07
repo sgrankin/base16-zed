@@ -4,7 +4,7 @@
   "author": "Jan T. Sott (http://github.com/idleberg)",
   "themes": [
     {
-      "name": "Base16 3024",
+      "name": "base16 3024",
       "appearance": "dark",
       "style": {
         "border": "#4a4543",

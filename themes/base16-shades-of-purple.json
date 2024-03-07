@@ -4,7 +4,7 @@
   "author": "Iolar Demartini Junior (http://github.com/demartini) based on Shades of Purple Theme (https://github.com/ahmadawais/shades-of-purple-vscode).",
   "themes": [
     {
-      "name": "Base16 Shades of Purple",
+      "name": "base16 Shades of Purple",
       "appearance": "dark",
       "style": {
         "border": "#f1d000",

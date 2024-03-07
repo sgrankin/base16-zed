@@ -4,7 +4,7 @@
   "author": "Aidan Swope (http://github.com/Whillikers)",
   "themes": [
     {
-      "name": "Base16 Gigavolt",
+      "name": "base16 Gigavolt",
       "appearance": "dark",
       "style": {
         "border": "#5a576e",

@@ -4,7 +4,7 @@
   "author": "@Schnouki, based on the Tango Desktop Project",
   "themes": [
     {
-      "name": "Base16 Tango",
+      "name": "base16 Tango",
       "appearance": "dark",
       "style": {
         "border": "#fce94f",

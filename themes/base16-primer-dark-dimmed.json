@@ -4,7 +4,7 @@
   "author": "Jimmy Lin",
   "themes": [
     {
-      "name": "Base16 Primer Dark Dimmed",
+      "name": "base16 Primer Dark Dimmed",
       "appearance": "dark",
       "style": {
         "border": "#444c56",

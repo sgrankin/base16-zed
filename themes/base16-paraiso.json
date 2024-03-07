@@ -4,7 +4,7 @@
   "author": "Jan T. Sott",
   "themes": [
     {
-      "name": "Base16 Paraiso",
+      "name": "base16 Paraiso",
       "appearance": "dark",
       "style": {
         "border": "#4f424c",

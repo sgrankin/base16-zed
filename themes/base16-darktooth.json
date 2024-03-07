@@ -4,7 +4,7 @@
   "author": "Jason Milkins (https://github.com/jasonm23)",
   "themes": [
     {
-      "name": "Base16 Darktooth",
+      "name": "base16 Darktooth",
       "appearance": "dark",
       "style": {
         "border": "#504945",

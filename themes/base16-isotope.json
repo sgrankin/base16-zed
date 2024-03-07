@@ -4,7 +4,7 @@
   "author": "Jan T. Sott",
   "themes": [
     {
-      "name": "Base16 Isotope",
+      "name": "base16 Isotope",
       "appearance": "dark",
       "style": {
         "border": "#606060",

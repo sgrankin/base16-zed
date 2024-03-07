@@ -4,7 +4,7 @@
   "author": "ed (https://codeberg.org/ed)",
   "themes": [
     {
-      "name": "Base16 eris",
+      "name": "base16 eris",
       "appearance": "dark",
       "style": {
         "border": "#23255a",

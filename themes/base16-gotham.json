@@ -4,7 +4,7 @@
   "author": "Andrea Leopardi (arranged by Brett Jones)",
   "themes": [
     {
-      "name": "Base16 Gotham",
+      "name": "base16 Gotham",
       "appearance": "dark",
       "style": {
         "border": "#091f2e",

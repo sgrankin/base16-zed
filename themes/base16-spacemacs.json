@@ -4,7 +4,7 @@
   "author": "Nasser Alshammari (https://github.com/nashamri/spacemacs-theme)",
   "themes": [
     {
-      "name": "Base16 Spacemacs",
+      "name": "base16 Spacemacs",
       "appearance": "dark",
       "style": {
         "border": "#444155",

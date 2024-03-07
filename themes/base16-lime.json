@@ -4,7 +4,7 @@
   "author": "limelier",
   "themes": [
     {
-      "name": "Base16 lime",
+      "name": "base16 lime",
       "appearance": "dark",
       "style": {
         "border": "#2a2a3f",

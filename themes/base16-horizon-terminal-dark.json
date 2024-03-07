@@ -4,7 +4,7 @@
   "author": "Michaël Ball (http://github.com/michael-ball/)",
   "themes": [
     {
-      "name": "Base16 Horizon Terminal Dark",
+      "name": "base16 Horizon Terminal Dark",
       "appearance": "dark",
       "style": {
         "border": "#2e303e",

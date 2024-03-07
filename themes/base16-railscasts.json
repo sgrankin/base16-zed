@@ -4,7 +4,7 @@
   "author": "Ryan Bates (http://railscasts.com)",
   "themes": [
     {
-      "name": "Base16 Railscasts",
+      "name": "base16 Railscasts",
       "appearance": "dark",
       "style": {
         "border": "#3a4055",

@@ -4,7 +4,7 @@
   "author": "Patel, Nimai &lt;nimai.m.patel@gmail.com&gt;, colors from www.github.com/rexim/gruber-darker-theme",
   "themes": [
     {
-      "name": "Base16 Gruber",
+      "name": "base16 Gruber",
       "appearance": "dark",
       "style": {
         "border": "#484848",

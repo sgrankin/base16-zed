@@ -4,7 +4,7 @@
   "author": "Bram de Haan (http://atelierbramdehaan.nl)",
   "themes": [
     {
-      "name": "Base16 Atelier Estuary",
+      "name": "base16 Atelier Estuary",
       "appearance": "dark",
       "style": {
         "border": "#5f5e4e",

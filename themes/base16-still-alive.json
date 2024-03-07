@@ -4,7 +4,7 @@
   "author": "Derrick McKee (derrick.mckee@gmail.com)",
   "themes": [
     {
-      "name": "Base16 Still Alive",
+      "name": "base16 Still Alive",
       "appearance": "light",
       "style": {
         "border": "#fff018",

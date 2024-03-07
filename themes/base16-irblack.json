@@ -4,7 +4,7 @@
   "author": "Timothée Poisot (http://timotheepoisot.fr)",
   "themes": [
     {
-      "name": "Base16 IR Black",
+      "name": "base16 IR Black",
       "appearance": "dark",
       "style": {
         "border": "#484844",
